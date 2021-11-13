@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "G",
+  "title": "Mix of external and public function visibility with the same access modifier",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/29"
+}
