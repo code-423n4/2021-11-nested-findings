@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "TomFrench",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "G",
+  "title": "`NestedReserve.transferFromFactory` function increases deployment gas costs unnecessarily",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/27"
+}
