@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "TomFrench",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "G",
+  "title": "Store hash of `type(ZeroExStorage).creationCode` rather than recalculating it on each call",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/35"
+}
