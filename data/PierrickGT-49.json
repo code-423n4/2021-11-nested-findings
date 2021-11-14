@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "PierrickGT",
+  "address": "0xd70804463bb2760c3384fc87bbe779e3d91bab3a",
+  "risk": "G",
+  "title": "NestedFactory: in deleteAsset and freeToken, tokens should only be declared once ",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/49"
+}
