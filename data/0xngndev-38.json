@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "0xngndev",
+  "address": "0xF8cE240B29246FAff3AF7fdE780A4AC6d537f59A",
+  "risk": "G",
+  "title": "Adding an if check to avoid unnecessary call",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/38"
+}
