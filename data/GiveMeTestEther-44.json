@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "0",
+  "title": "Comment for PaymentReceived event should state \"received\" instead of \"released\"",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/44"
+}
