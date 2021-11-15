@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "Meta0xNull",
+  "address": "0xfa2Df13a636b8F2FAaA179785797f1f16fDdF8ED",
+  "risk": "G",
+  "title": "Avoiding Initialization of Loop Index If It Is 0",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/54"
+}
