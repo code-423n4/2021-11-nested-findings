@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "1",
+  "title": "If `removeOperator` is called with non-existant operator the while loop keeps going until gas limit is hit",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/59"
+}
