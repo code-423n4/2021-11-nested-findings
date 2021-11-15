@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "2",
+  "title": "Impossible to remove the operator at index 0 of `operators` array",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/58"
+}
