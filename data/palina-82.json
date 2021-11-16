@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "palina",
+  "address": "0xFDf01E09b9bd3f3bE062a3085fa2c945a263F5a7",
+  "risk": "2",
+  "title": "setReserve() can be front-run",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/82"
+}
