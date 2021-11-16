@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "elprofesor",
+  "address": "0x3779a5Fee209e8E2d397b3ab357446899fcDd4ac",
+  "risk": "1",
+  "title": "`NestedFactory.unlockTokens` fails to use safe transfer",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/78"
+}
