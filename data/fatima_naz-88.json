@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "fatima_naz",
+  "address": "0x63A62BDCA68DCA4B98385De493f73C7393b14F6b",
+  "risk": "2",
+  "title": "Array index out of bounds can go in function removeOperator in NestedFactory.sol ",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/88"
+}
