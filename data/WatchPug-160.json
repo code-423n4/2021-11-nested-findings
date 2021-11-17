@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "`NestedFactory.sol#_submitInOrders()` Wrong implementation cause users to be overcharged",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/160"
+}
