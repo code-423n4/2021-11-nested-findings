@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "GreyArt",
+  "address": "0x1c95a25459edd226aCF8061D40C7FB03716371F7",
+  "risk": "1",
+  "title": "NestedRecords: Incorrect comparison for maxHoldingsCount",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/132"
+}
