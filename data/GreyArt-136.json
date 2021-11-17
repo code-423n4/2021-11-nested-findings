@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "GreyArt",
+  "address": "0x1c95a25459edd226aCF8061D40C7FB03716371F7",
+  "risk": "2",
+  "title": "NestedFactory: Ensure zero msg.value if transferring from user and inputToken is not ETH ",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/136"
+}
