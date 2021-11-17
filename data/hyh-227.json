@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "3",
+  "title": "NestedFactory inherits from OpenZeppelin Multicall, which multicall function allows reusage of msg.value within ETH depositing",
+  "issueId": 227,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/227"
+}
