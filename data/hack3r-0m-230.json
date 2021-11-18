@@ -1,0 +1,9 @@
+{
+  "contest": "Nested Finance contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "G",
+  "title": "change variable location to memory from storage in getAmountsDue (view function)",
+  "issueId": 230,
+  "issueUrl": "https://github.com/code-423n4/2021-11-nested-findings/issues/230"
+}
