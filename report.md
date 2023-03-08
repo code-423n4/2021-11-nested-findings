@@ -1,3 +1,11 @@
+---
+sponsor: "Nested Finance"
+slug: "2021-11-nested"
+date: "2021-01-12"
+title: "Nested Finance contest"
+findings: "https://github.com/code-423n4/2021-11-nested-findings/issues"
+contest: 53
+---
 
 # Overview
 
